@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-seri;
+}
+
+.menu {
+    top: 0;
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: rgb(35, 7, 60);
+    box-shadow: 0px 1px 10px 5px rgb(65, 64, 64);
+    height: 10vh;
+    padding: 10px;
+}
+
+.cadastrar:hover {
+    height: 40px;
+    width: 135px;
+}
+
+.cadastrar{
+    margin-right: 40px;
+    padding: 10px;
+    background-color: rgb(35, 7, 60);
+    border: white;
+    color: white;
+    font-weight: 600;
+    border: 1px solid white;
+    letter-spacing: 2px;
+    border-radius: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.cadastrar:hover{
+    background-color: rgb(11, 1, 19);
+    padding: 12PX;
+}
+.entrar {
+    background-color: white;
+    border: 1px solid white;
+    font-weight: 600;
+    color: rgb(3, 41, 2);
+    letter-spacing: 2px;
+    margin-right: 60px;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.entrar:hover{
+    padding: 12px;    
+}

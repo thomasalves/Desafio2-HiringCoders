@@ -1,0 +1,27 @@
+.footer{
+    background-color: rgb(35, 7, 60);
+    height: 120px;
+    width: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.social {
+    margin-top: 10px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social a {
+    margin-right: 20px;
+}
+
+#github {
+    background: white;
+    border-radius: 20px;
+}

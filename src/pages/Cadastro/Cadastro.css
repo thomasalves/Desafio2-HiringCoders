@@ -1,0 +1,76 @@
+.cadastro {
+    width: 750px;
+    height: 550px;;
+    background: rgb(35, 7, 60);
+    box-shadow: 2px 4px 25px rgba(182, 182, 182, 0.562);
+    border-radius: 12px;
+    transition: all .2s linear;
+    display: grid;
+    align-content: center;
+
+}
+
+.pageCadastro {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+
+.cadastro input {
+    display: flex;
+    justify-self: center;
+    align-content: center;
+    width: 80%;
+    margin: 10px;
+    height: 30px;
+ 
+    box-sizing: border-box;
+    border: none;
+    color: white;
+    background-color: #23073c;
+    border-bottom: 1px solid white;
+    
+}
+
+.cadastro h3 {
+    margin-left: 75px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    color:white
+}
+
+.cadastro input:hover {
+    width: 82%;
+    height: 32px;
+}
+
+.btnEnviar {
+    width: 100px;
+    height: 40px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+    border-radius: 10px;   
+    box-sizing: border-box;
+    background-color: white;
+    color: #23073c;
+    border:none;
+
+}
+
+.btnEnviar:hover {
+    width: 105px;
+    height: 43px;
+    background-color: #5b149a;
+    color: white;
+}
+
+.cadastro label {
+    margin-left: 35px;
+}
