@@ -1,6 +1,7 @@
 # Desafio 2 programa Hiring Coders
 
-    Esta Aplicação foi desenvolvida na programa Hiring Coders da Gama Academy e Vtex. O seu objetivo é desenvolver uma gestão de cadastros para uma aplicação e-commerce.
+Esta Aplicação foi desenvolvida na programa Hiring Coders da Gama Academy e Vtex. 
+O seu objetivo é desenvolver uma gestão de cadastros para uma aplicação e-commerce.
 
 ## Entregaveis :
     
