@@ -72,3 +72,11 @@ img {
 .adicionar:active {
     border: none;
 }
+
+@media (max-width: 600px)
+{
+  .cardContainer
+   {
+        width: 100%;
+   }
+}

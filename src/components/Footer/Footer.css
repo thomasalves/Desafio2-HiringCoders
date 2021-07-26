@@ -25,3 +25,11 @@
     background: white;
     border-radius: 20px;
 }
+
+@media (max-width: 600px)
+{
+  .footer
+   {
+        font-size: .8rem;
+   }
+}

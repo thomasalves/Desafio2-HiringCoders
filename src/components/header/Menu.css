@@ -55,3 +55,16 @@
 .entrar:hover{
     padding: 12px;    
 }
+
+@media (max-width: 600px)
+{
+  .menu
+   {
+        justify-content: center;
+        padding: 0px;
+   }
+
+   .entrar{
+       margin-right: 0px;
+   }
+}
