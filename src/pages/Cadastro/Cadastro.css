@@ -74,3 +74,15 @@
 .cadastro label {
     margin-left: 35px;
 }
+
+@media (max-width: 600px)
+{
+    .cadastro {
+        width: 90%;
+        height: 85%;
+    }
+
+    .cadastro h3 {
+        margin-left: 30px;
+    }
+}
